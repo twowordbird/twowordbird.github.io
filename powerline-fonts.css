@@ -1,13 +1,13 @@
 @font-face {
-  font-family: 'DejaVu Sans Mono';
+  font-family: 'DejaVu Sans Mono for Powerline';
   font-style: normal;
   font-weight: normal;
-  src: url(fonts/DejaVuSansMono.ttf) format('truetype');
+  src: url(fonts/DejaVu Sans Mono for Powerline.ttf) format('truetype');
 }
 
 @font-face {
-  font-family: 'DejaVu Sans Mono';
+  font-family: 'DejaVu Sans Mono for Powerline';
   font-style: bold;
   font-weight: normal;
-  src: url(fonts/DejaVuSansMono-Bold.ttf) format('truetype');
+  src: url(fonts/DejaVu Sans Mono Bold for Powerline.ttf) format('truetype');
 }
